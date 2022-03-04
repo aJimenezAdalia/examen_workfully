@@ -1,0 +1,126 @@
+04/03/2022 12:42:03 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:42:03 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:42:03 - root - INFO - Success inserting values of city: madrid, date: 2022-02-27 12:00:00
+04/03/2022 12:42:03 - root - INFO - Success inserting values of city: madrid, date: 2022-02-28 12:00:00
+04/03/2022 12:42:04 - root - INFO - Success inserting values of city: madrid, date: 2022-03-01 12:00:00
+04/03/2022 12:42:04 - root - INFO - Success inserting values of city: madrid, date: 2022-03-02 12:00:00
+04/03/2022 12:42:04 - root - INFO - Success inserting values of city: madrid, date: 2022-03-03 12:00:00
+04/03/2022 12:42:05 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-27 12:00:00
+04/03/2022 12:42:05 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-28 12:00:00
+04/03/2022 12:42:06 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-01 12:00:00
+04/03/2022 12:42:06 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-02 12:00:00
+04/03/2022 12:42:06 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-03 12:00:00
+04/03/2022 12:43:00 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:43:00 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:43:00 - root - ERROR - Unexpected error occurred inserting values of city: madrid, date: 2022-02-27 12:00:00
+04/03/2022 12:43:00 - root - ERROR - Unexpected error occurred inserting values of city: madrid, date: 2022-02-28 12:00:00
+04/03/2022 12:43:00 - root - ERROR - Unexpected error occurred inserting values of city: madrid, date: 2022-03-01 12:00:00
+04/03/2022 12:43:00 - root - ERROR - Unexpected error occurred inserting values of city: madrid, date: 2022-03-02 12:00:00
+04/03/2022 12:43:00 - root - ERROR - Unexpected error occurred inserting values of city: madrid, date: 2022-03-03 12:00:00
+04/03/2022 12:43:01 - root - ERROR - Unexpected error occurred inserting values of city: barcelona, date: 2022-02-27 12:00:00
+04/03/2022 12:43:01 - root - ERROR - Unexpected error occurred inserting values of city: barcelona, date: 2022-02-28 12:00:00
+04/03/2022 12:43:01 - root - ERROR - Unexpected error occurred inserting values of city: barcelona, date: 2022-03-01 12:00:00
+04/03/2022 12:43:01 - root - ERROR - Unexpected error occurred inserting values of city: barcelona, date: 2022-03-02 12:00:00
+04/03/2022 12:43:01 - root - ERROR - Unexpected error occurred inserting values of city: barcelona, date: 2022-03-03 12:00:00
+04/03/2022 12:47:14 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:47:14 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:47:15 - root - INFO - Success inserting values of city: madrid, date: 2022-02-27 12:00:00
+04/03/2022 12:47:15 - root - INFO - Success inserting values of city: madrid, date: 2022-02-28 12:00:00
+04/03/2022 12:47:15 - root - INFO - Success inserting values of city: madrid, date: 2022-03-01 12:00:00
+04/03/2022 12:47:16 - root - INFO - Success inserting values of city: madrid, date: 2022-03-02 12:00:00
+04/03/2022 12:47:16 - root - INFO - Success inserting values of city: madrid, date: 2022-03-03 12:00:00
+04/03/2022 12:47:16 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-27 12:00:00
+04/03/2022 12:47:17 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-28 12:00:00
+04/03/2022 12:47:17 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-01 12:00:00
+04/03/2022 12:47:17 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-02 12:00:00
+04/03/2022 12:47:17 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-03 12:00:00
+04/03/2022 12:50:28 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:50:28 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:50:28 - root - INFO - Success inserting values of city: madrid, date: 2022-02-27 12:00:00
+04/03/2022 12:50:28 - root - INFO - Success inserting values of city: madrid, date: 2022-02-28 12:00:00
+04/03/2022 12:50:28 - root - INFO - Success inserting values of city: madrid, date: 2022-03-01 12:00:00
+04/03/2022 12:50:29 - root - INFO - Success inserting values of city: madrid, date: 2022-03-02 12:00:00
+04/03/2022 12:50:29 - root - INFO - Success inserting values of city: madrid, date: 2022-03-03 12:00:00
+04/03/2022 12:50:29 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-27 12:00:00
+04/03/2022 12:50:29 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-28 12:00:00
+04/03/2022 12:50:30 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-01 12:00:00
+04/03/2022 12:50:30 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-02 12:00:00
+04/03/2022 12:50:30 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-03 12:00:00
+04/03/2022 12:50:34 - root - INFO - Success inserting values of city: madrid, date: current timestamp
+04/03/2022 12:50:39 - root - INFO - Success inserting values of city: barcelona, date: current timestamp
+04/03/2022 12:50:39 - root - INFO - max_temp_df DataFrame successfully created
+04/03/2022 12:51:49 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:51:49 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:51:49 - root - INFO - Success inserting values of city: madrid, date: 2022-02-27 12:00:00
+04/03/2022 12:51:50 - root - INFO - Success inserting values of city: madrid, date: 2022-02-28 12:00:00
+04/03/2022 12:51:50 - root - INFO - Success inserting values of city: madrid, date: 2022-03-01 12:00:00
+04/03/2022 12:51:50 - root - INFO - Success inserting values of city: madrid, date: 2022-03-02 12:00:00
+04/03/2022 12:51:50 - root - INFO - Success inserting values of city: madrid, date: 2022-03-03 12:00:00
+04/03/2022 12:51:51 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-27 12:00:00
+04/03/2022 12:51:51 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-28 12:00:00
+04/03/2022 12:51:51 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-01 12:00:00
+04/03/2022 12:51:51 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-02 12:00:00
+04/03/2022 12:51:51 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-03 12:00:00
+04/03/2022 12:51:56 - root - INFO - Success inserting values of city: madrid, date: current timestamp
+04/03/2022 12:52:00 - root - INFO - Success inserting values of city: barcelona, date: current timestamp
+04/03/2022 12:52:00 - root - INFO - max_temp_df DataFrame successfully created
+04/03/2022 12:54:10 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:54:10 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:54:10 - root - INFO - Success inserting values of city: madrid, date: 2022-02-27 12:00:00
+04/03/2022 12:54:10 - root - INFO - Success inserting values of city: madrid, date: 2022-02-28 12:00:00
+04/03/2022 12:54:10 - root - INFO - Success inserting values of city: madrid, date: 2022-03-01 12:00:00
+04/03/2022 12:54:11 - root - INFO - Success inserting values of city: madrid, date: 2022-03-02 12:00:00
+04/03/2022 12:54:11 - root - INFO - Success inserting values of city: madrid, date: 2022-03-03 12:00:00
+04/03/2022 12:54:11 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-27 12:00:00
+04/03/2022 12:54:11 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-28 12:00:00
+04/03/2022 12:54:11 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-01 12:00:00
+04/03/2022 12:54:12 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-02 12:00:00
+04/03/2022 12:54:12 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-03 12:00:00
+04/03/2022 12:54:16 - root - INFO - Success inserting values of city: madrid, date: current timestamp
+04/03/2022 12:54:20 - root - INFO - Success inserting values of city: barcelona, date: current timestamp
+04/03/2022 12:54:20 - root - INFO - max_temp_df DataFrame successfully created
+04/03/2022 12:55:10 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:55:10 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:55:11 - root - INFO - Success inserting values of city: madrid, date: 2022-02-27 12:00:00
+04/03/2022 12:55:11 - root - INFO - Success inserting values of city: madrid, date: 2022-02-28 12:00:00
+04/03/2022 12:55:11 - root - INFO - Success inserting values of city: madrid, date: 2022-03-01 12:00:00
+04/03/2022 12:55:11 - root - INFO - Success inserting values of city: madrid, date: 2022-03-02 12:00:00
+04/03/2022 12:55:11 - root - INFO - Success inserting values of city: madrid, date: 2022-03-03 12:00:00
+04/03/2022 12:55:11 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-27 12:00:00
+04/03/2022 12:55:11 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-28 12:00:00
+04/03/2022 12:55:12 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-01 12:00:00
+04/03/2022 12:55:12 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-02 12:00:00
+04/03/2022 12:55:12 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-03 12:00:00
+04/03/2022 12:55:16 - root - INFO - Success inserting values of city: madrid, date: current timestamp
+04/03/2022 12:55:20 - root - INFO - Success inserting values of city: barcelona, date: current timestamp
+04/03/2022 12:55:20 - root - INFO - max_temp_df DataFrame successfully created
+04/03/2022 12:55:48 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:55:48 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:55:48 - root - INFO - Success inserting values of city: madrid, date: 2022-02-27 12:00:00
+04/03/2022 12:55:48 - root - INFO - Success inserting values of city: madrid, date: 2022-02-28 12:00:00
+04/03/2022 12:55:48 - root - INFO - Success inserting values of city: madrid, date: 2022-03-01 12:00:00
+04/03/2022 12:55:48 - root - INFO - Success inserting values of city: madrid, date: 2022-03-02 12:00:00
+04/03/2022 12:55:49 - root - INFO - Success inserting values of city: madrid, date: 2022-03-03 12:00:00
+04/03/2022 12:55:49 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-27 12:00:00
+04/03/2022 12:55:49 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-28 12:00:00
+04/03/2022 12:55:49 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-01 12:00:00
+04/03/2022 12:55:49 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-02 12:00:00
+04/03/2022 12:55:50 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-03 12:00:00
+04/03/2022 12:55:54 - root - INFO - Success inserting values of city: madrid, date: current timestamp
+04/03/2022 12:55:58 - root - INFO - Success inserting values of city: barcelona, date: current timestamp
+04/03/2022 12:55:58 - root - INFO - max_temp_df DataFrame successfully created
+04/03/2022 12:59:32 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:59:32 - root - INFO - Table daily_weather successfully created
+04/03/2022 12:59:32 - root - INFO - Success inserting values of city: madrid, date: 2022-02-27 12:00:00
+04/03/2022 12:59:32 - root - INFO - Success inserting values of city: madrid, date: 2022-02-28 12:00:00
+04/03/2022 12:59:32 - root - INFO - Success inserting values of city: madrid, date: 2022-03-01 12:00:00
+04/03/2022 12:59:33 - root - INFO - Success inserting values of city: madrid, date: 2022-03-02 12:00:00
+04/03/2022 12:59:33 - root - INFO - Success inserting values of city: madrid, date: 2022-03-03 12:00:00
+04/03/2022 12:59:33 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-27 12:00:00
+04/03/2022 12:59:33 - root - INFO - Success inserting values of city: barcelona, date: 2022-02-28 12:00:00
+04/03/2022 12:59:34 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-01 12:00:00
+04/03/2022 12:59:34 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-02 12:00:00
+04/03/2022 12:59:34 - root - INFO - Success inserting values of city: barcelona, date: 2022-03-03 12:00:00
+04/03/2022 12:59:38 - root - INFO - Success inserting values of city: madrid, date: current timestamp
+04/03/2022 12:59:42 - root - INFO - Success inserting values of city: barcelona, date: current timestamp
+04/03/2022 12:59:42 - root - INFO - max_temp_df DataFrame successfully created
